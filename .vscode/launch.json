@@ -1,0 +1,69 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program 1",
+            "program": "${workspaceFolder}\\code\\1.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program Server",
+            "program": "${workspaceFolder}\\code\\server.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program fs",
+            "program": "${workspaceFolder}\\code\\fs.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program server2",
+            "program": "${workspaceFolder}\\code\\server2.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program querystring",
+            "program": "${workspaceFolder}\\code\\querystring.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program urlLib",
+            "program": "${workspaceFolder}\\code\\urlLib.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program serverPost",
+            "program": "${workspaceFolder}\\code\\serverPost.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program serverGetAndPost",
+            "program": "${workspaceFolder}\\code\\serverGetAndPost.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program serverAll",
+            "program": "${workspaceFolder}\\code\\serverAll.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program test",
+            "program": "${workspaceFolder}\\code\\module\\test.js"
+        }
+    ]
+}
